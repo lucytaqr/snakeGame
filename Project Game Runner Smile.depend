@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638723770 source:e:\project game hunter worm\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+
